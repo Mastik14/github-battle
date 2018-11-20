@@ -1,3 +1,3 @@
 # github-battle
 github users battle
-Simple github users battle
+Live version: https://github-battle-c1b60.firebaseapp.com/
